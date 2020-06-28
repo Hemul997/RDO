@@ -9,9 +9,9 @@ public class PlayerBehaviorRater : MonoBehaviour
     private const float START_NORMAL_ERROR_RANGE = -0.2f;
     private const float END_NORMAL_ERROR_RANGE = 0.8f;
 
-    private const string RATE_LEVEL_GOOD = "Хорошо";
-    private const string RATE_LEVEL_NORMAL = "Норма";
-    private const string RATE_LEVEL_POORLY = "Плохо";
+    private const string RATE_LEVEL_GOOD = "Good";
+    private const string RATE_LEVEL_NORMAL = "Normal";
+    private const string RATE_LEVEL_POORLY = "Poorly";
 
     private RateLevel CurrRateLevel;
 

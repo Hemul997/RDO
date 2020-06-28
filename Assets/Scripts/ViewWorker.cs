@@ -20,13 +20,13 @@ public class ViewWorker : MonoBehaviour {
 
     private void Awake()
     {
-        _textSpeedCoeff.text = "";
-        _textPlayerRate.text = "";
+        _textSpeedCoeff.text = "Speed: 1";
+        _textPlayerRate.text = "Grade";
     }
 
     public void SetSpeedData(int speed)
     {
-        _textSpeedCoeff.text = "Скорость" + _SEPARATOR + ' ' + speed.ToString();
+        _textSpeedCoeff.text = "Speed" + _SEPARATOR + ' ' + speed.ToString();
     }
 
     public void SetTimerData(float minutes, float seconds)
