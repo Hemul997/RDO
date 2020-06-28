@@ -24,9 +24,9 @@ speed of response user in last test iteration thought [Fuzzy logic](https://en.w
 [Hemul997](https://github.com/Hemul997)
 	
 ## Screenshots
-	![start-test](/img/screenshots/start_test.JPG "Start test")
+![start-test](/img/screenshots/start_test.JPG "Start test")
 	
-	![grade-test-iteration](/img/screenshots/grade_test_iteration.JPG "Grade test iteration")
+![grade-test-iteration](/img/screenshots/grade_test_iteration.JPG "Grade test iteration")
 	
 ## License
 
